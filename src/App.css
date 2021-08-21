@@ -1,0 +1,24 @@
+ .container{
+     width: 100%;
+     height: auto;
+     max-width:500px ;
+     max-height: 500px;
+     min-width: 350px;
+     background-color: aliceblue;
+     background-image: radial-gradient(gray);
+     background-size: 25px 2px;
+     border-radius: 20px;
+     box-shadow: 4px 3px 7px 2px ;
+     padding: 2rem;
+     box-sizing: border-box;
+     align-items: center;
+     text-align: center;
+     margin-top: 10rem;
+     margin-left: 25rem;
+
+
+
+ }
+ body{
+   background-color: rgb(43, 218, 203);
+ }
